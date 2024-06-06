@@ -87,7 +87,7 @@ We welcome contributions of any kind, both financial as well as in kind.
 If you want to contribute financially, we kindly suggest the following
 yearly contribution levels:
 
-- Platinum - euro 30.00 and above
+- Platinum - euro 30.000 and above
 - Gold - euro 20.000
 - Silver - euro 10.000
 - Bronze - euro 5000 and below
