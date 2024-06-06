@@ -1,34 +1,34 @@
-[]{#anchor}SimpleSAMLphp Strategy
+<span id="anchor"></span>SimpleSAMLphp Strategy
 
 Copyright:SimpleSAMLphp @ TCC
 
 License: CC share-alike, credit
 
-[]{#anchor-1}References[]{#anchor-2}
+<span id="anchor-1"></span>References<span id="anchor-2"></span>
 
 \[SSP-Statute\]
 [*https://dracc.commonsconservancy.org/0034/*](https://dracc.commonsconservancy.org/0034/)
-[]{#anchor-3}
+<span id="anchor-3"></span>
 
-\[SSP-Board\] []{#anchor-4}
+\[SSP-Board\] <span id="anchor-4"></span>
 
 \[CC\]
 [*https://commonsconservancy.org/*](https://commonsconservancy.org/)
 
-[]{#anchor-5}SimpleSAMLphp governance and legal home
+<span id="anchor-5"></span>SimpleSAMLphp governance and legal home
 
 The SimpleSAMLphp is an open collaborative software development effort,
 with community governance provided by the SimpleSAMLphp Board of
 Directors.
 
-SimpleSAMLphp's legal-administrative home is with The Commons
+SimpleSAMLphp’s legal-administrative home is with The Commons
 Conservancy [*\[CC\]*](#ejy0t79fuh4x), a Netherlands-based foundation
 for creating and fostering a technology commons in Europe. The Commons
-Conservancy is a multi-tenant "foundation-as-a-service" provider hosting
+Conservancy is a multi-tenant “foundation-as-a-service” provider hosting
 virtual not-for-profit organisations in the field of open source
 software, design and hardware development.
 
-[]{#anchor-6}The SimpleSAMLphp software product
+<span id="anchor-6"></span>The SimpleSAMLphp software product
 
 SimpleSAMLphp is an open source software project that is widely used as
 a digital identity solution. The core project is highly extendable and
@@ -42,41 +42,41 @@ platform is the global Research & Education sector. SimpleSAMLphp is
 known to be used in other sectors such as government, health, NGOs and
 commercial organisations.
 
-[]{#anchor-7}SimpleSAMLphp Strategy
+<span id="anchor-7"></span>SimpleSAMLphp Strategy
 
 The SimpleSAMLphp software project strategy is to:
 
--   ensure continued support, maintenance, and further development of
-    the SimpleSAMLphp software with features sufficiently relevant to
-    ensure the product is and remains relevant for its target groups;
--   maintain architecture that enables interoperable core that is
-    extensible with community contributions in a modular fashion;
--   be a well-maintained, secure, well-documented product that is easy
-    to install, integrate and operate;
--   keep up-to-date to modern standards, existing features, technology
-    and project infrastructure;
--   have the ability to absorb community contributions and address
-    community reported issues effectively and timely, while keeping it
-    easy for maintenance;
--   have a level of community-management activity that is adequate to
-    ensure that key community members retain a sense of affiliation and
-    solidarity with the project;
--   raise funds sufficient to accomplish the previous goals.
+- ensure continued support, maintenance, and further development of the
+  SimpleSAMLphp software with features sufficiently relevant to ensure
+  the product is and remains relevant for its target groups;
+- maintain architecture that enables interoperable core that is
+  extensible with community contributions in a modular fashion;
+- be a well-maintained, secure, well-documented product that is easy to
+  install, integrate and operate;
+- keep up-to-date to modern standards, existing features, technology and
+  project infrastructure;
+- have the ability to absorb community contributions and address
+  community reported issues effectively and timely, while keeping it
+  easy for maintenance;
+- have a level of community-management activity that is adequate to
+  ensure that key community members retain a sense of affiliation and
+  solidarity with the project;
+- raise funds sufficient to accomplish the previous goals.
 
-[]{#anchor-8}Operational approach
+<span id="anchor-8"></span>Operational approach
 
 To support our strategic aim of continuous software production and
 community development, long-term engagements for key roles are
 preferred. Currently identified key roles are:
 
--   Lead Maintainer - Manages the SSP project in close collaboration
-    with the developer community. Maintains and develops code as well as
-    handling community contributions.
--   Lead Communications - Manages general communications and outreach on
-    behalf of the SSP project, including the web presence (website, blog
-    updates, use case stories, etc). Organizes in-person and/or virtual
-    SSP project meetings, including hackathons and gatherings at
-    conferences and similar.
+- Lead Maintainer - Manages the SSP project in close collaboration with
+  the developer community. Maintains and develops code as well as
+  handling community contributions.
+- Lead Communications - Manages general communications and outreach on
+  behalf of the SSP project, including the web presence (website, blog
+  updates, use case stories, etc). Organizes in-person and/or virtual
+  SSP project meetings, including hackathons and gatherings at
+  conferences and similar.
 
 Short term engagements may be used for specific, not continuously
 occurring tasks that typically are well (enough) standardised to capture
@@ -96,13 +96,13 @@ Since its inception, SimpleSAMLphp has been developed using in-kind
 contributions. With the move of the SimpleSAMLphp project to the Common
 Conservancy the contributions are supplemented with the paid-for ones.
 
-SimpleSAMLphp's funding strategy is to actively seek financial or
+SimpleSAMLphp’s funding strategy is to actively seek financial or
 in-kind contributions from organisations that use or have strategic
 interests to support SimpleSAMLphp software (commercial, non-profit, R&E
 support organisations and collaborations, EC, open source support
 foundations, etc.).
 
-[]{#anchor-9}Strategy responsibility and updates
+<span id="anchor-9"></span>Strategy responsibility and updates
 
 As stated in the SimpleSAMLphp Statute
 [*\[SSP-Statute\]*](#fteiresw89az), the SimpleSAMLphp Board
