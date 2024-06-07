@@ -1,34 +1,31 @@
-<span id="anchor"></span>SimpleSAMLphp Strategy
-
 Copyright:SimpleSAMLphp @ TCC
 
 License: CC share-alike, credit
 
-<span id="anchor-1"></span>References<span id="anchor-2"></span>
+# References
 
 \[SSP-Statute\]
-[*https://dracc.commonsconservancy.org/0034/*](https://dracc.commonsconservancy.org/0034/)
-<span id="anchor-3"></span>
+[<u>https://dracc.commonsconservancy.org/0034/</u>](https://dracc.commonsconservancy.org/0034/)
 
-\[SSP-Board\] <span id="anchor-4"></span>
+\[SSP-Board\]
 
 \[CC\]
-[*https://commonsconservancy.org/*](https://commonsconservancy.org/)
+[<u>https://commonsconservancy.org/</u>](https://commonsconservancy.org/)
 
-<span id="anchor-5"></span>SimpleSAMLphp governance and legal home
+# SimpleSAMLphp governance and legal home
 
 The SimpleSAMLphp is an open collaborative software development effort,
 with community governance provided by the SimpleSAMLphp Board of
 Directors.
 
 SimpleSAMLphp’s legal-administrative home is with The Commons
-Conservancy [*\[CC\]*](#ejy0t79fuh4x), a Netherlands-based foundation
-for creating and fostering a technology commons in Europe. The Commons
-Conservancy is a multi-tenant “foundation-as-a-service” provider hosting
-virtual not-for-profit organisations in the field of open source
-software, design and hardware development.
+Conservancy [<u>\[CC\]</u>](#ejy0t79fuh4x), a Netherlands-based
+foundation for creating and fostering a technology commons in Europe.
+The Commons Conservancy is a multi-tenant “foundation-as-a-service”
+provider hosting virtual not-for-profit organisations in the field of
+open source software, design and hardware development.
 
-<span id="anchor-6"></span>The SimpleSAMLphp software product
+# The SimpleSAMLphp software product 
 
 SimpleSAMLphp is an open source software project that is widely used as
 a digital identity solution. The core project is highly extendable and
@@ -42,41 +39,48 @@ platform is the global Research & Education sector. SimpleSAMLphp is
 known to be used in other sectors such as government, health, NGOs and
 commercial organisations.
 
-<span id="anchor-7"></span>SimpleSAMLphp Strategy
+# SimpleSAMLphp Strategy
 
 The SimpleSAMLphp software project strategy is to:
 
 - ensure continued support, maintenance, and further development of the
-  SimpleSAMLphp software with features sufficiently relevant to ensure
-  the product is and remains relevant for its target groups;
+  > SimpleSAMLphp software with features sufficiently relevant to ensure
+  > the product is and remains relevant for its target groups;
+
 - maintain architecture that enables interoperable core that is
-  extensible with community contributions in a modular fashion;
+  > extensible with community contributions in a modular fashion;
+
 - be a well-maintained, secure, well-documented product that is easy to
-  install, integrate and operate;
+  > install, integrate and operate;
+
 - keep up-to-date to modern standards, existing features, technology and
-  project infrastructure;
+  > project infrastructure;
+
 - have the ability to absorb community contributions and address
-  community reported issues effectively and timely, while keeping it
-  easy for maintenance;
+  > community reported issues effectively and timely, while keeping it
+  > easy for maintenance;
+
 - have a level of community-management activity that is adequate to
-  ensure that key community members retain a sense of affiliation and
-  solidarity with the project;
+  > ensure that key community members retain a sense of affiliation and
+  > solidarity with the project;
+
 - raise funds sufficient to accomplish the previous goals.
 
-<span id="anchor-8"></span>Operational approach
+# Operational approach
 
 To support our strategic aim of continuous software production and
 community development, long-term engagements for key roles are
 preferred. Currently identified key roles are:
 
 - Lead Maintainer - Manages the SSP project in close collaboration with
-  the developer community. Maintains and develops code as well as
-  handling community contributions.
+  > the developer community. Maintains and develops code as well as
+  > handling community contributions.
+
 - Lead Communications - Manages general communications and outreach on
-  behalf of the SSP project, including the web presence (website, blog
-  updates, use case stories, etc). Organizes in-person and/or virtual
-  SSP project meetings, including hackathons and gatherings at
-  conferences and similar.
+  > behalf of the SSP project, including the web presence (website, blog
+  > updates, use case stories, etc). Organizes in-person and/or virtual
+  > SSP project meetings, including hackathons and gatherings at
+  > conferences and similar.
 
 Short term engagements may be used for specific, not continuously
 occurring tasks that typically are well (enough) standardised to capture
@@ -84,11 +88,11 @@ in a simple description of work or tasks requiring specialised skills
 and knowledge we can not or do not want to maintain in the Programme.
 Examples of such tasks are:
 
-\- code security audits, crypto security audits
-
-\- designing a new UI
-
-\- creating promotional material
+> \- code security audits, crypto security audits
+>
+> \- designing a new UI
+>
+> \- creating promotional material
 
 Funding and sourcing strategy
 
@@ -102,11 +106,11 @@ interests to support SimpleSAMLphp software (commercial, non-profit, R&E
 support organisations and collaborations, EC, open source support
 foundations, etc.).
 
-<span id="anchor-9"></span>Strategy responsibility and updates
+# Strategy responsibility and updates
 
 As stated in the SimpleSAMLphp Statute
-[*\[SSP-Statute\]*](#fteiresw89az), the SimpleSAMLphp Board
-[*\[SSP-Board\]*](#k1f44eid0tty) is responsible for defining and
+[<u>\[SSP-Statute\]</u>](#fteiresw89az), the SimpleSAMLphp Board
+[<u>\[SSP-Board\]</u>](#k1f44eid0tty) is responsible for defining and
 maintaining this strategy. The SimpleSAMLphp Board will review and if
 needed update this strategy from time to time, consulting with the wider
 community.

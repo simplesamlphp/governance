@@ -2,6 +2,7 @@
 
 if=${1:?Please supply the path to the odt file to convert as arg1};
 bname=$(basename "${if%%.odt}")
+bname="${bname%%.docx}"
 of="$bname.md"
 ofpics="$bname.images"
 
