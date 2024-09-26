@@ -5,8 +5,8 @@ Various interesting documents from the SimpleSAMLphp board are located in the do
 
 # Strategy 
 
-* [SimplesamlPHP Strategy] (https://github.com/simplesamlphp/governance/blob/main/docs/SimpleSAMLphp%20-%20Funding%20Solicitation.md)
+* [SimplesamlPHP Strategy](https://github.com/simplesamlphp/governance/blob/main/docs/SimpleSAMLphp%20-%20Funding%20Solicitation.md)
 
 # Funding solicitation
 
-* [SimplesamlPHP Funding Strategy] (https://github.com/simplesamlphp/governance/blob/main/docs/SimpleSAMLphp%20-%20Funding%20Solicitation.md)
+* [SimplesamlPHP Funding Strategy](https://github.com/simplesamlphp/governance/blob/main/docs/SimpleSAMLphp%20-%20Funding%20Solicitation.md)
