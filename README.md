@@ -1,7 +1,7 @@
 
 # Governance repository 
 
-Various interesting documents from the SimpleSAMLphp board are located in the docs directory. They should be in a format that can easily be read in the web browser.
+Various interesting documents from the SimpleSAMLphp board are located in the [docs directory](https://github.com/simplesamlphp/governance/tree/main/docs). They should be in a format that can easily be read in the web browser.
 
 # Strategy 
 
